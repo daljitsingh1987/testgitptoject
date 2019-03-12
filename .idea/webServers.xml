@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="340c8889-2c3c-4c56-8dcf-7af67f9ddfdb" name="gitptoject" url="https://github.com/daljitsingh1987/testgitptoject">
+        <fileTransfer host="https://github.com/daljitsingh1987/testgitptoject.git" port="80" rootFolder="https://github.com/daljitsingh1987/testgitptoject.git">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="80" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

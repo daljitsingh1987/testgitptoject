@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="gitptoject" uploadOnCheckin="340c8889-2c3c-4c56-8dcf-7af67f9ddfdb">
+    <serverData>
+      <paths name="gitptoject">
+        <serverdata>
+          <mappings>
+            <mapping deploy="https://github.com/daljitsingh1987/testgitptoject" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="gitptoject" />
+  </component>
+</project>
